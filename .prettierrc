@@ -6,5 +6,5 @@
     "trailingComma": "es5",
     "bracketSpacing": false,
     "endOfLine": "auto",
-    "trailingCommaPHP": "php7.2"
+    "trailingCommaPHP": "php7.4"
 }

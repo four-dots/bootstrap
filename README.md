@@ -1,2 +1,3 @@
-# bootstrap
-bootstrap
+# Bootstrap
+
+Projects config files
